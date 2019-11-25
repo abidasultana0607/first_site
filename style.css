@@ -1,0 +1,54 @@
+body {
+  color: red;
+  font-family: arial;
+  margin: 50px;
+}
+
+h1 {
+  color: green;
+  font-family: arial;
+  margin: 80px;
+  text-align: center;
+  font-size: 5em;
+}
+
+div {
+  min-height: 5vh;
+  width: 27vw;
+}
+
+img {
+  display: inline-block;
+  padding: 5px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+p {
+  color: black;
+
+}
+
+ul {
+  color: black;
+  padding: 0;
+  margin-bottom: 0%;
+  font-size: 1em;
+}
+
+a {
+  margin: 3px;
+  font-size: 2em;
+}
+
+li#lower {
+  margin-top: 2%;
+}
+
+li#lowest {
+  margin-top: 1%;
+}
+
+div.contrast {
+  background-color: yellow
+}
